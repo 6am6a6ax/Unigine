@@ -1,7 +1,9 @@
 .vs
 Debug
+Release
 Vendor
+glew
+glfw
 
-*.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
